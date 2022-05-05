@@ -1,0 +1,40 @@
+body {
+    background-color: bisque;
+}
+h1,h2 {
+    color: rgb(237, 100, 207);
+    font-size: 25px;
+    font-family:verdana;
+    text-align:center 
+}
+
+p {
+    color: rgb(237, 100, 207);
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    opacity: 0.7;
+}
+ul{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(237, 100, 207);
+    list-style-type: none;
+    display:flex;
+    gap: 30px;
+    justify-content: center;
+
+    
+}
+hr{
+    color: rgb(240, 88, 164)
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
